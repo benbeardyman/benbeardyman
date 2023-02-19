@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Ben
-:computer: I'm a softare developer based in Edinburgh <br/>
+:computer: I'm a software developer based in Edinburgh <br/>
 :man_student:	Currently studying software development at CodeClan
 
 <!--
