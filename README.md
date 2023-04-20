@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Ben
 :computer: I'm a software developer based in Edinburgh <br/>
-:man_student:	Currently studying software development at CodeClan
+:man_student:	Recently re-trained as a software development at CodeClan
 
 <!--
 **benbeardyman/benbeardyman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
