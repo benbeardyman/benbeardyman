@@ -1,5 +1,4 @@
 ### 👋 Hi, I'm Ben
-<hr>
 :computer: Software developer based in Edinburgh <br/>
 :man_student:	Recently completed the proffessional software development course at CodeClan <br/>
 :pencil2:	Currently working on personal projects whilst looking for my first role
