@@ -3,7 +3,7 @@
 * :man_technologist: Developer based in Edinburgh
 * :mortar_board:	Recently completed the Professional Software Development course at CodeClan
 * :pencil2:	Working on personal projects whilst looking for my first role
-* :seedling: Currently learning <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"  width="20"> and <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png"  width="20"> 
+* :seedling: Currently on a learning adventure with <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"  width="20"> and <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png"  width="20"> 
 
 
 
