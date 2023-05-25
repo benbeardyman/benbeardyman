@@ -1,7 +1,8 @@
 ### 👋 Hi, I'm Ben
-:computer: Software developer based in Edinburgh <br/>
-:man_student:	Recently completed the proffessional software development course at CodeClan <br/>
-:pencil2:	Currently working on personal projects whilst looking for my first role
+:man_technologist: Software developer based in Edinburgh <br/>
+:mortar_board:	Recently completed the Professional Software Development course at CodeClan <br/>
+:pencil2:	Working on personal projects whilst looking for my first role
+:seedling: Currently learning Typescript and C#
 
 <!--
 **benbeardyman/benbeardyman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
