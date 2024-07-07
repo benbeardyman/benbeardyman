@@ -1,9 +1,9 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2.5%"> Hey there, I'm Ben 
 #
-* :man_technologist: Developer based in Edinburgh
-* :mortar_board: Professional Software Development at CodeClan (graduated 2023)
+* :man_technologist: Fullstack developer based in Edinburgh working in fintech
 * :pencil2:	My space for personal projects
-* :seedling: Currently on a learning adventure with <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"  width="20"> and <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png"  width="20"> 
+* :pancakes: Main stack:  <img src="https://skillicons.dev/icons?i=php"  width="20"> <img src="https://skillicons.dev/icons?i=symfony"  width="20"> <img src="https://skillicons.dev/icons?i=angular"  width="20"> <img src="https://skillicons.dev/icons?i=ts"  width="20"> <img src="https://skillicons.dev/icons?i=mysql"  width="20">
+* :mortar_board: Professional Software Development at CodeClan (graduated 2023)
 
 
 
