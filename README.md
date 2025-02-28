@@ -3,7 +3,7 @@
 * :man_technologist: Fullstack developer based in Edinburgh working in fintech
 * :pencil2:	My space for personal projects
 * :pancakes: Main stack:  <img src="https://skillicons.dev/icons?i=php"  width="20"> <img src="https://skillicons.dev/icons?i=symfony"  width="20"> <img src="https://skillicons.dev/icons?i=angular"  width="20"> <img src="https://skillicons.dev/icons?i=ts"  width="20"> <img src="https://skillicons.dev/icons?i=mysql"  width="20">
-* :mortar_board: Professional Software Development at CodeClan (graduated 2023)
+* :mortar_board: Graduated 2023 - Professional Software Development - CodeClan Bootcamp
 
 
 
